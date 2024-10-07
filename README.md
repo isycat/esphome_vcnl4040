@@ -2,7 +2,7 @@ Drop-in ESPHome library to use vs VCNL4040 light/proximity sensor.
 Made for, and tested with, with Microbots.io CodeCell.
 
 ## Example Config:
-```
+```yaml
 esphome:
   # ...
   libraries:
